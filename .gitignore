@@ -1,3 +1,2 @@
 secret.txt
-public/images/**  
-# /** i.e. folder upload ho but uske inside ka content uplaod na ho
+public/images/*
